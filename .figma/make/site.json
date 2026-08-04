@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and projects with a personalized portfolio website, featuring a weather app and additional projects to enhance your online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
