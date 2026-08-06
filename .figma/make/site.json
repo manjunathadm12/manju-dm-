@@ -1,0 +1,10 @@
+{
+  "description": "This web application showcases a personal portfolio, allowing users to explore projects and learn about the creator's skills and experiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
